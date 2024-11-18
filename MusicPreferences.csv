@@ -1,0 +1,521 @@
+MusicID,UserID,preferred_listening_content,fav_music_genre,music_time_slot,music_Influencial_mood,music_lis_frequency,music_expl_method,music_recc_rating
+1,1,Podcast,Melody,Night,Sadness or melancholy,leisure time,Playlists,3
+2,2,Podcast,Rap,Afternoon,Social gatherings or parties,Workout session,Playlists,2
+3,3,Podcast,Pop,Night,Relaxation and stress relief,"Study Hours, While Traveling",Playlists,4
+4,4,Music,Melody,Night,"Relaxation and stress relief, Social gatherings or parties","Office hours, Workout session, leisure time","recommendations, Playlists",4
+5,5,Music,Melody,Night,Relaxation and stress relief,leisure time,"recommendations, Playlists",4
+6,6,Music,Pop,Night,Uplifting and motivational,Workout session,Others,3
+7,7,Music,Melody,Morning,Relaxation and stress relief,Office hours,recommendations,3
+8,8,Music,Melody,Night,Social gatherings or parties,leisure time,recommendations,5
+9,9,Music,Melody,Afternoon,"Relaxation and stress relief, Uplifting and motivational","While Traveling, leisure time","Playlists, Radio",4
+10,10,Music,Melody,Night,Relaxation and stress relief,"Office hours, While Traveling, Workout session",recommendations,4
+11,11,Music,Melody,Afternoon,"Relaxation and stress relief, Uplifting and motivational","While Traveling, leisure time",Playlists,3
+12,12,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","While Traveling, leisure time","recommendations, Playlists",3
+13,13,Music,Melody,Morning,Relaxation and stress relief,Office hours,Playlists,3
+14,14,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Office hours, While Traveling","recommendations, Others",1
+15,15,Music,Pop,Morning,Relaxation and stress relief,Office hours,"recommendations, Playlists",5
+16,16,Music,Pop,Afternoon,"Relaxation and stress relief, Uplifting and motivational","Office hours, While Traveling, leisure time",Others,2
+17,17,Music,Melody,Afternoon,Relaxation and stress relief,"While Traveling, leisure time","Playlists, Radio",1
+18,18,Music,Melody,Night,Social gatherings or parties,Social gatherings ,recommendations,4
+19,19,Music,Melody,Night,Relaxation and stress relief,leisure time,recommendations,3
+20,20,Music,Melody,Night,Sadness or melancholy,"While Traveling, leisure time",recommendations,4
+21,21,Music,Melody,Night,"Relaxation and stress relief, Sadness or melancholy","While Traveling, leisure time","recommendations, Playlists",4
+22,22,Music,"Classical & melody, dance",Morning,Relaxation and stress relief,Office hours,recommendations,5
+23,23,Music,Melody,Night,Relaxation and stress relief,While Traveling,recommendations,4
+24,24,Music,classical,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time","recommendations, Playlists, Radio",1
+25,25,Music,Rock,Night,"Relaxation and stress relief, Sadness or melancholy",Study Hours,"recommendations, Radio",3
+26,26,Music,Pop,Night,Relaxation and stress relief,"While Traveling, Workout session, leisure time",Others,4
+27,27,Podcast,Rap,Morning,Relaxation and stress relief,"Office hours, While Traveling, Workout session",recommendations,4
+28,28,Music,Old songs,Night,Relaxation and stress relief,leisure time,recommendations,1
+29,29,Music,Pop,Night,Relaxation and stress relief,"Office hours, While Traveling",recommendations,4
+30,30,Podcast,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","Study Hours, leisure time",recommendations,3
+31,31,Music,Melody,Morning,Relaxation and stress relief,While Traveling,Playlists,4
+32,32,Music,Pop,Night,Relaxation and stress relief,Office hours,Playlists,5
+33,33,Music,Pop,Night,Uplifting and motivational,Workout session,"recommendations, Playlists",3
+34,34,Music,Pop,Night,Relaxation and stress relief,While Traveling,recommendations,3
+35,35,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, leisure time",Playlists,4
+36,36,Music,Rap,Night,Uplifting and motivational,Workout session,Others,1
+37,37,Music,Pop,Morning,Uplifting and motivational,"Office hours, While Traveling, leisure time","recommendations, Playlists, Radio",3
+38,38,Music,Melody,Night,"Relaxation and stress relief, Social gatherings or parties","While Traveling, Workout session, leisure time","recommendations, Playlists",3
+39,39,Music,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time",recommendations,4
+40,40,Music,Pop,Night,"Relaxation and stress relief, Uplifting and motivational","Study Hours, leisure time",Playlists,3
+41,41,Music,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time","recommendations, Playlists, Others",4
+42,42,Music,Pop,Night,Relaxation and stress relief,"While Traveling, Workout session",Playlists,3
+43,43,Music,Pop,Night,Uplifting and motivational,"Study Hours, Workout session, leisure time","recommendations, Playlists",4
+44,44,Music,classical,Afternoon,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties","While Traveling, Workout session, leisure time","recommendations, Others",5
+45,45,Music,Melody,Night,"Relaxation and stress relief, Sadness or melancholy","Office hours, While Traveling, ","recommendations, Playlists",5
+46,46,Music,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time",Playlists,5
+47,47,Podcast,classical,Afternoon,Sadness or melancholy,"While Traveling, Workout session",Others,3
+48,48,Podcast,Melody,Morning,Sadness or melancholy,"While Traveling, Workout session, leisure time","recommendations, Playlists",4
+49,49,Music,Melody,Morning,Relaxation and stress relief,"While Traveling, leisure time","recommendations, Playlists",3
+50,50,Music,Electronic/Dance,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","While Traveling, Workout session, leisure time",recommendations,4
+51,51,Music,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time","Playlists, Radio",3
+52,52,Music,Pop,Night,Relaxation and stress relief,leisure time,Others,4
+53,53,Music,Rap,Night,"Relaxation and stress relief, Sadness or melancholy",Office hours,Others,4
+54,54,Podcast,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","While Traveling, Workout session, leisure time","recommendations, Playlists",4
+55,55,Music,Pop,Night,"Relaxation and stress relief, Social gatherings or parties","Office hours, While Traveling, leisure time","recommendations, Radio",3
+56,56,Music,All,Morning,"Relaxation and stress relief, Uplifting and motivational","Workout session, leisure time",Playlists,5
+57,57,Music,classical,Afternoon,Relaxation and stress relief,"While Traveling, leisure time",Playlists,3
+58,58,Music,Melody,Night,Relaxation and stress relief,While Traveling,Playlists,4
+59,59,Music,Pop,Morning,Relaxation and stress relief,"While Traveling, Workout session","recommendations, Playlists",4
+60,60,Music,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time","recommendations, Playlists",5
+61,61,Music,classical,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","While Traveling, leisure time",recommendations,4
+62,62,Music,Pop,Night,Uplifting and motivational,leisure time,Others,3
+63,63,Music,Melody,Afternoon,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties","While Traveling, leisure time",Others,3
+64,64,Music,Melody,Night,Relaxation and stress relief,leisure time,Playlists,3
+65,65,Music,Rap,Afternoon,Relaxation and stress relief,"While Traveling, leisure time",recommendations,3
+66,66,Music,Melody,Night,"Relaxation and stress relief, Sadness or melancholy",leisure time,"recommendations, Others",3
+67,67,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties","While Traveling, Workout session, leisure time","recommendations, Playlists",5
+68,68,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational",Office hours,"recommendations, Playlists",4
+69,69,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, leisure time",Playlists,4
+70,70,Music,Melody,Afternoon,Relaxation and stress relief,leisure time,recommendations,5
+71,71,Music,Melody,Night,Relaxation and stress relief,"Office hours, While Traveling, Workout session",Playlists,5
+72,72,Music,Electronic/Dance,Afternoon,Uplifting and motivational,While Traveling,Playlists,3
+73,73,Music,Melody,Night,"Relaxation and stress relief, Sadness or melancholy",leisure time,"recommendations, Playlists",5
+74,74,Music,Melody,Morning,Social gatherings or parties,"Office hours, While Traveling, leisure time",Others,2
+75,75,Podcast,Melody,Afternoon,Uplifting and motivational,While Traveling,Radio,2
+76,76,Podcast,Rap,Afternoon,"Uplifting and motivational, Sadness or melancholy","While Traveling, Workout session, leisure time",Others,4
+77,77,Podcast,Rap,Night,Sadness or melancholy,Study Hours,recommendations,2
+78,78,Podcast,Pop,Afternoon,Social gatherings or parties,Workout session,Radio,5
+79,79,Podcast,Melody,Afternoon,Sadness or melancholy,While Traveling,Radio,3
+80,80,Podcast,classical,Afternoon,Uplifting and motivational,Study Hours,Radio,3
+81,81,Music,Melody,Afternoon,Relaxation and stress relief,leisure time,Others,4
+82,82,Podcast,Rap,Morning,Relaxation and stress relief,Study Hours,Radio,3
+83,83,Podcast,classical,Night,Relaxation and stress relief,leisure time,recommendations,4
+84,84,Music,Melody,Morning,Uplifting and motivational,While Traveling,Radio,3
+85,85,Music,Melody,Night,Relaxation and stress relief,leisure time,Playlists,3
+86,86,Podcast,Rap,Morning,Sadness or melancholy,While Traveling,Playlists,3
+87,87,Podcast,Rap,Afternoon,Uplifting and motivational,Study Hours,Others,3
+88,88,Music,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time",recommendations,4
+89,89,Podcast,Electronic/Dance,Night,Relaxation and stress relief,Office hours,Playlists,5
+90,90,Podcast,classical,Morning,Uplifting and motivational,While Traveling,recommendations,4
+91,91,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time, Night time, when cooking","recommendations, Playlists, Others",5
+92,92,Music,classical,Night,Relaxation and stress relief,Office hours,Playlists,3
+93,93,Music,Melody,Night,Relaxation and stress relief,leisure time,recommendations,3
+94,94,Music,Melody,Morning,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time","recommendations, Playlists",4
+95,95,Music,Melody,Morning,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, leisure time","recommendations, Playlists",3
+96,96,Music,Rap,Night,"Relaxation and stress relief, Uplifting and motivational",Office hours,Playlists,3
+97,97,Music,Melody,Night,Relaxation and stress relief,leisure time,Playlists,3
+98,98,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","While Traveling, Workout session, leisure time",recommendations,3
+99,99,Music,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time","recommendations, Playlists",5
+100,100,Music,Pop,Night,"Relaxation and stress relief, Social gatherings or parties",leisure time,recommendations,3
+101,101,Music,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Office hours, While Traveling, Workout session, leisure time","recommendations, Playlists, Radio",5
+102,102,Music,Melody,Night,Relaxation and stress relief,While Traveling,Playlists,4
+103,103,Music,Pop,Afternoon,Relaxation and stress relief,Office hours,recommendations,4
+104,104,Music,classical,Night,Relaxation and stress relief,leisure time,recommendations,4
+105,105,Music,Melody,Morning,"Relaxation and stress relief, Sadness or melancholy","While Traveling, leisure time","recommendations, Playlists",3
+106,106,Music,Melody,Night,Sadness or melancholy,leisure time,Playlists,4
+107,107,Music,Pop,Morning,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","Office hours, While Traveling",recommendations,4
+108,108,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","Study Hours, While Traveling, Workout session, leisure time",Others,4
+109,109,Music,Pop,Night,Relaxation and stress relief,leisure time,recommendations,3
+110,110,Music,Pop,Night,Relaxation and stress relief,"While Traveling, leisure time","recommendations, Playlists",5
+111,111,Music,Melody,Night,Relaxation and stress relief,While Traveling,Playlists,4
+112,112,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational",While Traveling,"recommendations, Playlists",4
+113,113,Music,Melody,Night,Relaxation and stress relief,While Traveling,recommendations,5
+114,114,Music,Kpop,Night,Relaxation and stress relief,"Office hours, While Traveling, Workout session","recommendations, Playlists",5
+115,115,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","While Traveling, leisure time",recommendations,4
+116,116,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","While Traveling, Workout session, leisure time",Playlists,4
+117,117,Music,classical,Night,Relaxation and stress relief,leisure time,recommendations,1
+118,118,Music,All,Night,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties","Office hours, Study Hours, While Traveling, Workout session, leisure time","recommendations, Playlists, Radio",2
+119,119,Music,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time",recommendations,4
+120,120,Music,Melody,Morning,"Relaxation and stress relief, Uplifting and motivational",leisure time,Playlists,1
+121,121,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Office hours, While Traveling, leisure time","recommendations, Playlists",5
+122,122,Music,Pop,Night,"Relaxation and stress relief, Sadness or melancholy, Social gatherings or parties","While Traveling, leisure time",Others,3
+123,123,Music,Pop,Night,Uplifting and motivational,"While Traveling, leisure time","recommendations, Playlists",4
+124,124,Podcast,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","Workout session, leisure time","recommendations, Playlists",4
+125,125,Music,Melody,Night,"Relaxation and stress relief, Sadness or melancholy","Office hours, leisure time","recommendations, Playlists",4
+126,126,Podcast,Melody,Morning,Relaxation and stress relief,"While Traveling, leisure time",recommendations,3
+127,127,Music,Melody,Morning,Relaxation and stress relief,While Traveling,recommendations,4
+128,128,Music,Melody,Night,"Relaxation and stress relief, Sadness or melancholy",While Traveling,"recommendations, Others",4
+129,129,Music,Pop,Night,Relaxation and stress relief,leisure time,recommendations,4
+130,130,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","While Traveling, leisure time","recommendations, Playlists, Others",3
+131,131,Music,Electronic/Dance,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time","recommendations, Playlists, Others",4
+132,132,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","While Traveling, leisure time",recommendations,3
+133,133,Music,Rap,Night,"Relaxation and stress relief, Uplifting and motivational",leisure time,recommendations,4
+134,134,Music,Melody,Morning,Relaxation and stress relief,leisure time,"recommendations, Others",3
+135,135,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","While Traveling, Workout session, leisure time","recommendations, Playlists, Radio",5
+136,136,Podcast,Rap,Night,"Relaxation and stress relief, Uplifting and motivational","While Traveling, Workout session","recommendations, Playlists",5
+137,137,Music,Melody,Night,Uplifting and motivational,"While Traveling, Workout session, leisure time",Playlists,4
+138,138,Music,Melody,Night,Relaxation and stress relief,leisure time,recommendations,4
+139,139,Music,Rock,Night,Relaxation and stress relief,leisure time,Playlists,3
+140,140,Music,Pop,Night,Relaxation and stress relief,"While Traveling, leisure time",recommendations,4
+141,141,Music,Melody,Night,Relaxation and stress relief,While Traveling,Playlists,5
+142,142,Podcast,classical,Night,Relaxation and stress relief,leisure time,recommendations,4
+143,143,Podcast,Melody,Night,Relaxation and stress relief,leisure time,"Radio, Others",4
+144,144,Music,Melody,Night,"Relaxation and stress relief, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time","Radio, Others",3
+145,145,Music,Pop,Night,Relaxation and stress relief,"Workout session, leisure time",recommendations,3
+146,146,Music,Pop,Night,Relaxation and stress relief,While Traveling,recommendations,5
+147,147,Music,Melody,Afternoon,Relaxation and stress relief,"While Traveling, leisure time",recommendations,3
+148,148,Music,Melody,Afternoon,Relaxation and stress relief,"Office hours, While Traveling, leisure time","recommendations, Playlists",5
+149,149,Music,Electronic/Dance,Night,Relaxation and stress relief,leisure time,Others,4
+150,150,Music,Pop,Night,Relaxation and stress relief,"While Traveling, Workout session, leisure time",Playlists,5
+151,151,Music,classical,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Office hours, While Traveling, leisure time","recommendations, Playlists",4
+152,152,Music,Melody,Night,Uplifting and motivational,Workout session,Radio,3
+153,153,Music,Melody,Morning,Relaxation and stress relief,While Traveling,"recommendations, Playlists",5
+154,154,Music,Melody,Afternoon,"Relaxation and stress relief, Uplifting and motivational",leisure time,recommendations,4
+155,155,Podcast,Pop,Night,Uplifting and motivational,Study Hours,recommendations,3
+156,156,Music,Melody,Night,Relaxation and stress relief,leisure time,Playlists,4
+157,157,Music,Electronic/Dance,Night,Relaxation and stress relief,leisure time,"recommendations, Playlists",4
+158,158,Music,classical,Night,Relaxation and stress relief,While Traveling,recommendations,5
+159,159,Music,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time","recommendations, Playlists",4
+160,160,Music,Melody,Night,Relaxation and stress relief,"While Traveling, Workout session",Playlists,3
+161,161,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","Office hours, While Traveling","Radio, Others",4
+162,162,Music,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time","recommendations, Playlists",4
+163,163,Music,Pop,Morning,Uplifting and motivational,"While Traveling, Workout session","recommendations, Playlists",4
+164,164,Music,Melody,Night,Relaxation and stress relief,leisure time,Playlists,4
+165,165,Music,Melody,Night,"Relaxation and stress relief, Sadness or melancholy, Social gatherings or parties","While Traveling, leisure time",Playlists,5
+166,166,Podcast,classical,Morning,Sadness or melancholy,While Traveling,Radio,3
+167,167,Podcast,Rap,Afternoon,"Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session","Playlists, Radio",3
+168,168,Podcast,classical,Afternoon,Uplifting and motivational,While Traveling,Radio,2
+169,169,Podcast,Rap,Morning,Uplifting and motivational,While Traveling,Radio,2
+170,170,Podcast,classical,Afternoon,Sadness or melancholy,"While Traveling, leisure time",recommendations,3
+171,171,Podcast,classical,Morning,Uplifting and motivational,While Traveling,"Radio, Others",2
+172,172,Podcast,classical,Morning,Uplifting and motivational,Workout session,Radio,2
+173,173,Podcast,classical,Afternoon,Sadness or melancholy,"Study Hours, While Traveling","Playlists, Others",4
+174,174,Podcast,classical,Morning,Uplifting and motivational,"Study Hours, While Traveling","Playlists, Radio",2
+175,175,Podcast,classical,Morning,Uplifting and motivational,Workout session,Radio,2
+176,176,Podcast,Melody,Morning,Sadness or melancholy,Workout session,Radio,3
+177,177,Podcast,Rap,Morning,Relaxation and stress relief,"While Traveling, Workout session","Playlists, Radio",3
+178,178,Podcast,classical,Afternoon,Uplifting and motivational,"While Traveling, leisure time","Playlists, Others",2
+179,179,Music,classical,Afternoon,"Uplifting and motivational, Sadness or melancholy","Study Hours, Workout session","Playlists, Radio",2
+180,180,Podcast,classical,Afternoon,Relaxation and stress relief,While Traveling,"Radio, Others",3
+181,181,Music,classical,Afternoon,Uplifting and motivational,"Study Hours, Workout session",Radio,2
+182,182,Music,classical,Morning,Uplifting and motivational,While Traveling,Playlists,3
+183,183,Podcast,classical,Morning,"Uplifting and motivational, Sadness or melancholy",Workout session,Others,4
+184,184,Music,Electronic/Dance,Morning,Uplifting and motivational,"Study Hours, Workout session","Playlists, Radio, Others",2
+185,185,Podcast,Rap,Morning,Uplifting and motivational,While Traveling,Playlists,2
+186,186,Podcast,classical,Morning,Social gatherings or parties,While Traveling,recommendations,2
+187,187,Music,Melody,Night,Social gatherings or parties,While Traveling,Others,2
+188,188,Music,Melody,Night,Relaxation and stress relief,leisure time,Playlists,2
+189,189,Music,Melody,Night,Uplifting and motivational,While Traveling,Playlists,4
+190,190,Music,Melody,Night,Relaxation and stress relief,While Traveling,"Playlists, Radio",4
+191,191,Music,trending songs random,Night,Relaxation and stress relief,"While Traveling, leisure time",recommendations,3
+192,192,Music,Melody,Night,Relaxation and stress relief,"While Traveling, Workout session, leisure time",recommendations,4
+193,193,Music,Melody,Morning,Relaxation and stress relief,leisure time,Playlists,5
+194,194,Music,Melody,Afternoon,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties",While Traveling,"recommendations, Playlists",5
+195,195,Music,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time",recommendations,4
+196,196,Music,Melody,Night,Relaxation and stress relief,leisure time,Playlists,5
+197,197,Music,Electronic/Dance,Night,Relaxation and stress relief,leisure time,Playlists,5
+198,198,Music,Melody,Morning,Relaxation and stress relief,While Traveling,Playlists,4
+199,199,Music,Pop,Night,Uplifting and motivational,"While Traveling, leisure time","Playlists, Radio",4
+200,200,Music,Melody,Night,Relaxation and stress relief,leisure time,Playlists,3
+201,201,Music,Melody,Night,"Relaxation and stress relief, Sadness or melancholy, Social gatherings or parties","Office hours, While Traveling","recommendations, Playlists",1
+202,202,Music,Pop,Night,"Relaxation and stress relief, Uplifting and motivational","Office hours, Study Hours, While Traveling, leisure time","recommendations, Playlists",3
+203,203,Music,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time","recommendations, Playlists, Others",4
+204,204,Music,Melody,Night,"Relaxation and stress relief, Sadness or melancholy",While Traveling,"recommendations, Playlists",5
+205,205,Music,classical,Morning,Relaxation and stress relief,"Study Hours, While Traveling, leisure time","recommendations, Playlists",4
+206,206,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","While Traveling, leisure time","recommendations, Playlists",3
+207,207,Music,Melody,Afternoon,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","While Traveling, Workout session","recommendations, Playlists",4
+208,208,Music,Melody,Night,Relaxation and stress relief,leisure time,Playlists,5
+209,209,Music,Melody,Night,"Relaxation and stress relief, Social gatherings or parties","While Traveling, Workout session, leisure time","recommendations, Playlists",5
+210,210,Music,Melody,Night,Relaxation and stress relief,While Traveling,Playlists,5
+211,211,Music,classical,Night,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties","Study Hours, While Traveling, Workout session, leisure time","recommendations, Playlists, Others",4
+212,212,Music,classical,Night,"Relaxation and stress relief, Uplifting and motivational",leisure time,"recommendations, Playlists",4
+213,213,Music,Melody,Night,Relaxation and stress relief,leisure time,Playlists,3
+214,214,Music,Melody,Night,Relaxation and stress relief,"Study Hours, While Traveling",Playlists,5
+215,215,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session",Playlists,5
+216,216,Music,classical,Night,Relaxation and stress relief,"Office hours, While Traveling, Workout session",Playlists,5
+217,217,Music,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time",recommendations,3
+218,218,Music,Melody,Morning,Relaxation and stress relief,While Traveling,Others,4
+219,219,Music,Melody,Night,Relaxation and stress relief,leisure time,Playlists,5
+220,220,Music,Pop,Night,Relaxation and stress relief,While Traveling,"recommendations, Radio",4
+221,221,Music,Rock,Night,Relaxation and stress relief,leisure time,recommendations,2
+222,222,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","Office hours, leisure time",recommendations,5
+223,223,Music,Melody,Night,Relaxation and stress relief,Workout session,Others,2
+224,224,Podcast,Melody,Afternoon,Relaxation and stress relief,leisure time,recommendations,5
+225,225,Music,Melody,Night,Relaxation and stress relief,leisure time,recommendations,3
+226,226,Music,Melody,Night,"Relaxation and stress relief, Sadness or melancholy","While Traveling, leisure time","recommendations, Playlists",5
+227,227,Music,Melody,Night,Relaxation and stress relief,While Traveling,Playlists,3
+228,228,Music,Rap,Afternoon,"Relaxation and stress relief, Uplifting and motivational",While Traveling,Others,4
+229,229,Music,Melody,Morning,Relaxation and stress relief,"Office hours, Workout session",Others,3
+230,230,Music,Pop,Night,Relaxation and stress relief,While Traveling,recommendations,4
+231,231,Music,Melody,Morning,Relaxation and stress relief,Workout session,recommendations,4
+232,232,Music,Melody,Morning,"Relaxation and stress relief, Sadness or melancholy",While Traveling,Playlists,4
+233,233,Music,Pop,Night,"Relaxation and stress relief, Sadness or melancholy",While Traveling,Playlists,5
+234,234,Music,Melody,Night,Relaxation and stress relief,"Study Hours, While Traveling, leisure time","recommendations, Playlists",4
+235,235,Music,Melody,Night,Relaxation and stress relief,While Traveling,Playlists,5
+236,236,Music,classical,Night,Uplifting and motivational,"While Traveling, Workout session",recommendations,4
+237,237,Music,Melody,Night,"Relaxation and stress relief, Sadness or melancholy","While Traveling, Workout session, leisure time","recommendations, Playlists",4
+238,238,Music,Melody,Night,Sadness or melancholy,leisure time,Playlists,2
+239,239,Music,All,Night,Uplifting and motivational,leisure time,"recommendations, Playlists",5
+240,240,Music,Melody,Afternoon,Relaxation and stress relief,Workout session,Playlists,5
+241,241,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","Office hours, Workout session",Others,5
+242,242,Music,Melody,Night,Relaxation and stress relief,While Traveling,recommendations,4
+243,243,Music,Melody,Night,Relaxation and stress relief,While Traveling,recommendations,4
+244,244,Music,Pop,Night,"Relaxation and stress relief, Sadness or melancholy","While Traveling, leisure time","recommendations, Playlists",5
+245,245,Music,classical,Night,Social gatherings or parties,leisure time,Playlists,3
+246,246,Music,classical,Night,Social gatherings or parties,leisure time,"recommendations, Others",3
+247,247,Music,Melody,Night,Relaxation and stress relief,While Traveling,recommendations,3
+248,248,Music,Melody,Night,Relaxation and stress relief,Study Hours,Playlists,5
+249,249,Music,Pop,Night,Relaxation and stress relief,"Office hours, Workout session",recommendations,5
+250,250,Music,Melody,Afternoon,Relaxation and stress relief,"Office hours, Study Hours, While Traveling","recommendations, Playlists, Others",3
+251,251,Music,Melody,Morning,Relaxation and stress relief,While Traveling,recommendations,3
+252,252,Music,Melody,Morning,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time","recommendations, Playlists",4
+253,253,Podcast,classical,Night,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties","While Traveling, leisure time","recommendations, Playlists, Others",3
+254,254,Music,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Office hours, Study Hours, While Traveling, Workout session, leisure time","Playlists, Radio",3
+255,255,Music,All,Night,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties",Random ,"recommendations, Others",5
+256,256,Music,Pop,Morning,"Uplifting and motivational, Sadness or melancholy","Office hours, While Traveling, Workout session",recommendations,3
+257,257,Music,Melody,Morning,Relaxation and stress relief,Workout session,Playlists,4
+258,258,Music,Melody,Night,"Relaxation and stress relief, Social gatherings or parties","While Traveling, Workout session, leisure time","Playlists, Others",4
+259,259,Music,Rap,Morning,Relaxation and stress relief,Office hours,recommendations,4
+260,260,Music,Pop,Morning,Relaxation and stress relief,While Traveling,Playlists,3
+261,261,Music,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","Office hours, Study Hours, While Traveling, Workout session, leisure time","recommendations, Playlists, Others",3
+262,262,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","While Traveling, Workout session, leisure time","recommendations, Playlists",2
+263,263,Music,Electronic/Dance,Night,"Relaxation and stress relief, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time","recommendations, Playlists",5
+264,264,Music,Pop,Night,Relaxation and stress relief,leisure time,Playlists,5
+265,265,Music,Kpop,Night,Uplifting and motivational,"Study Hours, Workout session, leisure time",Others,5
+266,266,Music,Melody,Night,Relaxation and stress relief,"Study Hours, While Traveling",recommendations,5
+267,267,Music,Melody,Afternoon,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties","While Traveling, Workout session, leisure time",Others,3
+268,268,Music,Melody,Afternoon,Relaxation and stress relief,"While Traveling, Workout session, leisure time","recommendations, Playlists",3
+269,269,Music,Melody,Morning,Relaxation and stress relief,While Traveling,recommendations,3
+270,270,Music,Pop,Afternoon,Social gatherings or parties,While Traveling,recommendations,4
+271,271,Music,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time",Playlists,4
+272,272,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time",Others,3
+273,273,Podcast,classical,Morning,Uplifting and motivational,Workout session,Playlists,1
+274,274,Podcast,classical,Afternoon,Sadness or melancholy,While Traveling,Radio,3
+275,275,Podcast,classical,Afternoon,Sadness or melancholy,While Traveling,Radio,3
+276,276,Podcast,Rap,Afternoon,Sadness or melancholy,Study Hours,Radio,3
+277,277,Podcast,classical,Afternoon,Sadness or melancholy,While Traveling,Playlists,2
+278,278,Music,Rap,Morning,Uplifting and motivational,While Traveling,Radio,3
+279,279,Podcast,classical,Morning,Uplifting and motivational,Study Hours,Radio,3
+280,280,Music,Melody,Night,Relaxation and stress relief,"While Traveling, Workout session, leisure time",Others,5
+281,281,Podcast,Rap,Morning,Sadness or melancholy,Workout session,Playlists,4
+282,282,Podcast,classical,Afternoon,Sadness or melancholy,Workout session,Radio,2
+283,283,Music,classical,Afternoon,Sadness or melancholy,"Study Hours, While Traveling, leisure time","Playlists, Others",2
+284,284,Podcast,Rap,Morning,Uplifting and motivational,"While Traveling, Workout session, leisure time","Playlists, Radio, Others",2
+285,285,Podcast,Pop,Afternoon,"Uplifting and motivational, Sadness or melancholy","Study Hours, While Traveling, Workout session","Playlists, Radio",3
+286,286,Podcast,classical,Afternoon,Uplifting and motivational,"Study Hours, While Traveling, Workout session","Playlists, Radio, Others",3
+287,287,Podcast,classical,Morning,"Uplifting and motivational, Sadness or melancholy","Office hours, Study Hours, While Traveling","Playlists, Others",2
+288,288,Music,Melody,Night,"Relaxation and stress relief, Sadness or melancholy","Study Hours, While Traveling, Workout session","Playlists, Others",3
+289,289,Podcast,classical,Afternoon,"Uplifting and motivational, Sadness or melancholy","Study Hours, While Traveling, Workout session","Playlists, Radio",3
+290,290,Music,classical,Morning,"Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Office hours, Study Hours, Workout session","recommendations, Playlists, Radio",3
+291,291,Podcast,Rap,Afternoon,"Relaxation and stress relief, Sadness or melancholy","Office hours, Study Hours, While Traveling","recommendations, Radio, Others",2
+292,292,Podcast,classical,Afternoon,Social gatherings or parties,"Study Hours, While Traveling",Radio,3
+293,293,Music,classical,Afternoon,Sadness or melancholy,While Traveling,"Playlists, Radio",3
+294,294,Music,classical,Morning,Uplifting and motivational,While Traveling,Radio,3
+295,295,Podcast,Pop,Morning,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","Study Hours, While Traveling, Workout session","recommendations, Playlists, Radio",2
+296,296,Podcast,Melody,Afternoon,Uplifting and motivational,While Traveling,Playlists,2
+297,297,Podcast,classical,Afternoon,Sadness or melancholy,Workout session,Playlists,2
+298,298,Music,Melody,Afternoon,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","Study Hours, While Traveling, Workout session",Playlists,3
+299,299,Music,classical,Night,Sadness or melancholy,Workout session,Radio,3
+300,300,Podcast,Rap,Afternoon,"Relaxation and stress relief, Sadness or melancholy","While Traveling, Workout session",Radio,3
+301,301,Music,Melody,Night,Relaxation and stress relief,While Traveling,Others,4
+302,302,Podcast,Rap,Afternoon,Uplifting and motivational,While Traveling,Others,3
+303,303,Podcast,Rap,Afternoon,"Uplifting and motivational, Sadness or melancholy",Study Hours,Playlists,3
+304,304,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","Office hours, While Traveling, Workout session","recommendations,Others, Social media",3
+305,305,Music,Rap,Morning,Uplifting and motivational,While Traveling,Radio,2
+306,306,Music,classical,Night,Sadness or melancholy,While Traveling,Others,3
+307,307,Podcast,Melody,Afternoon,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","Office hours, Study Hours, While Traveling","Radio, Others",3
+308,308,Podcast,classical,Afternoon,"Relaxation and stress relief, Uplifting and motivational",Office hours,recommendations,2
+309,309,Podcast,Rap,Afternoon,Uplifting and motivational,Workout session,Radio,2
+310,310,Podcast,classical,Afternoon,Sadness or melancholy,"Office hours, While Traveling, Workout session","recommendations, Radio, Others",2
+311,311,Podcast,Rap,Afternoon,Uplifting and motivational,"Study Hours, While Traveling, Workout session","recommendations, Playlists, Radio",4
+312,312,Podcast,Melody,Morning,"Relaxation and stress relief, Uplifting and motivational","Study Hours, Workout session","recommendations, Playlists, Radio",3
+313,313,Music,classical,Afternoon,"Uplifting and motivational, Sadness or melancholy",Workout session,Radio,2
+314,314,Podcast,Melody,Morning,"Uplifting and motivational, Social gatherings or parties","Office hours, Study Hours, While Traveling","Playlists, Others",3
+315,315,Music,classical,Afternoon,Uplifting and motivational,While Traveling,Radio,2
+316,316,Podcast,classical,Afternoon,"Uplifting and motivational, Sadness or melancholy",While Traveling,"Playlists, Radio",3
+317,317,Music,Melody,Afternoon,Sadness or melancholy,While Traveling,Others,2
+318,318,Podcast,Melody,Afternoon,Sadness or melancholy,Workout session,Others,3
+319,319,Music,Rap,Afternoon,Sadness or melancholy,While Traveling,Radio,3
+320,320,Podcast,classical,Morning,Sadness or melancholy,While Traveling,Playlists,3
+321,321,Music,classical,Afternoon,Sadness or melancholy,"While Traveling, leisure time",Others,3
+322,322,Music,Pop,Night,"Relaxation and stress relief, Social gatherings or parties",leisure time,"Others, Social media",2
+323,323,Music,Pop,Night,Relaxation and stress relief,leisure time,recommendations,4
+324,324,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","While Traveling, leisure time",recommendations,4
+325,325,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties",leisure time,Playlists,3
+326,326,Music,classical,Morning,"Relaxation and stress relief, Uplifting and motivational","Study Hours, While Traveling, leisure time","recommendations, Playlists",3
+327,327,Music,classical,Night,Sadness or melancholy,leisure time,Others,3
+328,328,Music,Melody,Night,Relaxation and stress relief,While Traveling,Playlists,4
+329,329,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","Office hours, Study Hours, While Traveling","recommendations, Playlists",5
+330,330,Music,Pop,Night,Relaxation and stress relief,"While Traveling, Before bed ","recommendations, Playlists",3
+331,331,Music,Melody,Morning,Relaxation and stress relief,"While Traveling, leisure time",recommendations,4
+332,332,Music,Pop,Morning,Uplifting and motivational,"While Traveling, leisure time",Others,3
+333,333,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","While Traveling, leisure time","recommendations, Others",1
+334,334,Music,Melody,Night,"Relaxation and stress relief, Sadness or melancholy","Office hours, While Traveling, Workout session",Others,4
+335,335,Music,Pop,Afternoon,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","While Traveling, Workout session, leisure time",recommendations,4
+336,336,Music,Melody,Night,Relaxation and stress relief,Office hours,Playlists,3
+337,337,Music,Melody,Night,Relaxation and stress relief,leisure time,"recommendations, Playlists",4
+338,338,Music,Rap,Night,Uplifting and motivational,leisure time,"Playlists, Others",4
+339,339,Music,classical,Night,Relaxation and stress relief,Workout session,recommendations,4
+340,340,Music,Melody,Night,Relaxation and stress relief,While Traveling,Radio,3
+341,341,Music,Melody,Night,"Relaxation and stress relief, Sadness or melancholy","Study Hours, While Traveling",Others,3
+342,342,Music,Electronic/Dance,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Office hours, Study Hours, While Traveling, Workout session",Playlists,3
+343,343,Music,Melody,Afternoon,Relaxation and stress relief,"Office hours, While Traveling","recommendations, Playlists, Radio",5
+344,344,Music,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time",recommendations,5
+345,345,Music,Pop,Night,"Relaxation and stress relief, Uplifting and motivational","Office hours, While Traveling, leisure time","recommendations, Playlists",4
+346,346,Music,Pop,Night,Relaxation and stress relief,While Traveling,Others,4
+347,347,Music,Melody,Night,Relaxation and stress relief,While Traveling,recommendations,3
+348,348,Music,Melody,Morning,Relaxation and stress relief,"Office hours, While Traveling","recommendations, Playlists",4
+349,349,Music,Melody,Night,"Relaxation and stress relief, Sadness or melancholy, Social gatherings or parties","Study Hours, While Traveling, leisure time","recommendations, Playlists, Radio",4
+350,350,Music,Pop,Night,Relaxation and stress relief,While Traveling,Playlists,5
+351,351,Music,Melody,Night,Relaxation and stress relief,While Traveling,recommendations,3
+352,352,Podcast,Melody,Night,Relaxation and stress relief,leisure time,recommendations,3
+353,353,Music,Pop,Night,"Relaxation and stress relief, Uplifting and motivational","Study Hours, Workout session, leisure time",Radio,1
+354,354,Music,classical,Night,Relaxation and stress relief,"While Traveling, leisure time","recommendations, Playlists, Radio, Others",3
+355,355,Music,Melody,Night,Social gatherings or parties,While Traveling,"Others, Friends",4
+356,356,Podcast,Melody,Morning,Relaxation and stress relief,While Traveling,"recommendations, Others",5
+357,357,Music,Melody,Afternoon,Relaxation and stress relief,While Traveling,recommendations,5
+358,358,Music,Melody,Night,"Relaxation and stress relief, Sadness or melancholy, Social gatherings or parties","Office hours, Study Hours, While Traveling, leisure time","recommendations, Playlists, Others",3
+359,359,Music,Melody,Night,"Relaxation and stress relief, Social gatherings or parties","While Traveling, Workout session, leisure time",Playlists,4
+360,360,Music,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Study Hours, While Traveling, Workout session, leisure time","recommendations, Playlists",4
+361,361,Music,Electronic/Dance,Morning,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Office hours, Study Hours, While Traveling, Workout session, leisure time","recommendations, Others, Social media",3
+362,362,Music,Melody,Night,Sadness or melancholy,leisure time,recommendations,3
+363,363,Music,classical,Night,Relaxation and stress relief,While Traveling,"recommendations, Playlists",4
+364,364,Music,Melody,Night,Relaxation and stress relief,"Office hours, While Traveling, leisure time","recommendations, Playlists",4
+365,365,Music,Pop,Afternoon,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties","Office hours, While Traveling, Workout session, leisure time","recommendations, Playlists",5
+366,366,Music,Pop,Night,"Relaxation and stress relief, Social gatherings or parties","Office hours, While Traveling","recommendations, Playlists",5
+367,367,Music,Melody,Night,Relaxation and stress relief,While Traveling,Playlists,4
+368,368,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","While Traveling, leisure time","recommendations, Playlists, Radio",3
+369,369,Music,Melody,Night,Relaxation and stress relief,While Traveling,Playlists,4
+370,370,Music,Kpop,Night,"Relaxation and stress relief, Sadness or melancholy",leisure time,Playlists,3
+371,371,Music,All,Night,"Relaxation and stress relief, Uplifting and motivational","While Traveling, leisure time","recommendations, Radio",4
+372,372,Music,Pop,Morning,Relaxation and stress relief,While Traveling,Playlists,4
+373,373,Music,Pop,Afternoon,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","While Traveling, Workout session","recommendations, Playlists",3
+374,374,Music,Melody,Night,"Relaxation and stress relief, Social gatherings or parties","Office hours, Study Hours, While Traveling, leisure time","recommendations, Playlists",3
+375,375,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Study Hours, While Traveling, leisure time","recommendations, Radio",4
+376,376,Music,Melody,Night,"Relaxation and stress relief, Sadness or melancholy","While Traveling, leisure time","Playlists, Others",3
+377,377,Music,Melody,Afternoon,"Relaxation and stress relief, Uplifting and motivational",leisure time,recommendations,3
+378,378,Music,Melody,Night,Uplifting and motivational,leisure time,Others,4
+379,379,Music,Pop,Night,"Relaxation and stress relief, Uplifting and motivational","While Traveling, leisure time","recommendations, Playlists",3
+380,380,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time","recommendations, Playlists, Radio",5
+381,381,Music,Melody,Night,Relaxation and stress relief,While Traveling,recommendations,5
+382,382,Music,Melody,Night,Relaxation and stress relief,leisure time,recommendations,3
+383,383,Music,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Office hours, Study Hours, While Traveling, Workout session, leisure time, ",Playlists,3
+384,384,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational",While Traveling,Others,4
+385,385,Music,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Study Hours, While Traveling, Workout session, leisure time",Playlists,5
+386,386,Music,Melody,Afternoon,Relaxation and stress relief,Office hours,Playlists,3
+387,387,Music,Rap,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Office hours, Study Hours, While Traveling, Workout session, leisure time","Playlists, Radio, Others",5
+388,388,Music,Melody,Night,Relaxation and stress relief,"Office hours, Study Hours, While Traveling, Workout session, leisure time",Playlists,3
+389,389,Music,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time",Others,1
+390,390,Music,Melody,Night,Uplifting and motivational,While Traveling,Playlists,4
+391,391,Music,Melody,Morning,Uplifting and motivational,leisure time,"recommendations, Playlists",3
+392,392,Music,Pop,Night,Relaxation and stress relief,While Traveling,recommendations,1
+393,393,Music,Electronic/Dance,Night,Social gatherings or parties,Workout session,Others,2
+394,394,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Office hours, Study Hours, While Traveling, Workout session, leisure time","recommendations, Others",4
+395,395,Music,Melody,Night,Relaxation and stress relief,"Office hours, While Traveling, leisure time",Others,4
+396,396,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","Office hours, leisure time","recommendations, Playlists, Others",4
+397,397,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational",leisure time,"recommendations, Playlists, Others",3
+398,398,Music,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time",recommendations,5
+399,399,Music,Melody,Night,Sadness or melancholy,"Office hours, While Traveling",Others,4
+400,400,Music,All,Night,"Uplifting and motivational, Social gatherings or parties",leisure time,"recommendations, Playlists",4
+401,401,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","Study Hours, While Traveling, leisure time","recommendations, Playlists",5
+402,402,Music,Melody,Night,"Relaxation and stress relief, Sadness or melancholy",leisure time,recommendations,3
+403,403,Music,Melody,Afternoon,Relaxation and stress relief,While Traveling,recommendations,3
+404,404,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","While Traveling, Workout session","recommendations, Playlists, Others",4
+405,405,Music,Melody,Afternoon,Relaxation and stress relief,While Traveling,Playlists,3
+406,406,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",leisure time,recommendations,3
+407,407,Podcast,classical,Afternoon,Uplifting and motivational,While Traveling,"recommendations, Playlists",4
+408,408,Music,Melody,Afternoon,Relaxation and stress relief,"Office hours, leisure time",Radio,3
+409,409,Music,Electronic/Dance,Night,Relaxation and stress relief,leisure time,"recommendations, Playlists",4
+410,410,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","Office hours, While Traveling, Workout session, leisure time","recommendations, Playlists",4
+411,411,Music,Melody,Night,Sadness or melancholy,"While Traveling, leisure time",recommendations,3
+412,412,Music,Rap,Morning,Relaxation and stress relief,While Traveling,recommendations,5
+413,413,Music,Rap,Night,Social gatherings or parties,leisure time,recommendations,4
+414,414,Music,Melody,Night,Relaxation and stress relief,While Traveling,Playlists,4
+415,415,Music,Melody,Afternoon,Uplifting and motivational,Workout session,Playlists,5
+416,416,Music,Melody,Night,Relaxation and stress relief,While Traveling,Radio,5
+417,417,Music,Melody,Night,"Relaxation and stress relief, Sadness or melancholy","While Traveling, Workout session",recommendations,3
+418,418,Music,Melody,Morning,Relaxation and stress relief,"While Traveling, leisure time","recommendations, Playlists",4
+419,419,Music,Electronic/Dance,Night,Relaxation and stress relief,"While Traveling, leisure time",recommendations,4
+420,420,Music,Melody,Night,Relaxation and stress relief,"While Traveling, Workout session, leisure time","recommendations, Playlists",4
+421,421,Music,Melody,Night,Sadness or melancholy,While Traveling,recommendations,3
+422,422,Music,Melody,Night,Relaxation and stress relief,leisure time,recommendations,1
+423,423,Music,Melody,Afternoon,Relaxation and stress relief,"Office hours, While Traveling, leisure time","recommendations, Playlists",3
+424,424,Music,Melody,Night,Relaxation and stress relief,While Traveling,recommendations,3
+425,425,Music,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties","While Traveling, leisure time","recommendations, Playlists, Radio, Others",5
+426,426,Music,Pop,Night,Relaxation and stress relief,"Workout session, leisure time",Playlists,4
+427,427,Music,Pop,Night,Sadness or melancholy,"Workout session, leisure time",Others,4
+428,428,Music,Melody,Night,Relaxation and stress relief,While Traveling,recommendations,5
+429,429,Music,Melody,Night,Relaxation and stress relief,"Study Hours, Workout session, leisure time","recommendations, Playlists",5
+430,430,Podcast,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time","recommendations, Playlists, Others",4
+431,431,Music,Melody,Night,Sadness or melancholy,While Traveling,"Others, Search",4
+432,432,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, leisure time","recommendations, Playlists, Others",5
+433,433,Music,Melody,Morning,Relaxation and stress relief,Study Hours,Playlists,3
+434,434,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties","While Traveling, Workout session, leisure time",recommendations,4
+435,435,Music,Pop,Night,"Relaxation and stress relief, Social gatherings or parties",leisure time,recommendations,3
+436,436,Music,Melody,Night,Relaxation and stress relief,"While Traveling, leisure time","recommendations, Others",3
+437,437,Music,Melody,Night,Relaxation and stress relief,While Traveling,recommendations,3
+438,438,Podcast,Melody,Night,Relaxation and stress relief,leisure time,recommendations,3
+439,439,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","While Traveling, leisure time",Playlists,2
+440,440,Music,Melody,Morning,Relaxation and stress relief,leisure time,"recommendations, Playlists",3
+441,441,Music,Melody,Afternoon,"Relaxation and stress relief, Social gatherings or parties","Office hours, While Traveling, ",recommendations,4
+442,442,Music,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties","While Traveling, Workout session, leisure time",recommendations,4
+443,443,Music,Pop,Morning,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time",Others,3
+444,444,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","While Traveling, Workout session, leisure time","recommendations, Playlists, Others",4
+445,445,Music,Pop,Night,"Relaxation and stress relief, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time","recommendations, Playlists",4
+446,446,Music,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy","Office hours, leisure time",recommendations,4
+447,447,Music,Melody,Night,"Relaxation and stress relief, Social gatherings or parties",leisure time,Playlists,4
+448,448,Music,Melody,Night,Relaxation and stress relief,leisure time,Playlists,4
+449,449,Music,Melody,Night,Relaxation and stress relief,"Office hours, leisure time",Playlists,3
+450,450,Music,Rock,Morning,"Relaxation and stress relief, Uplifting and motivational","While Traveling, Workout session, leisure time",Playlists,3
+451,451,Music,Pop,Night,"Relaxation and stress relief, Sadness or melancholy","While Traveling, Workout session, leisure time","recommendations, Playlists",4
+452,452,Music,Melody,Afternoon,Relaxation and stress relief,leisure time,Others,3
+453,453,Music,Electronic/Dance,Night,"Relaxation and stress relief, Uplifting and motivational",leisure time,recommendations,5
+454,454,Music,Melody,Night,Relaxation and stress relief,"Office hours, While Traveling, leisure time","recommendations, Others",5
+455,455,Music,"Classical & melody, dance",Night,Relaxation and stress relief,leisure time,Others,3
+456,456,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time","recommendations, Playlists",5
+457,457,Music,Melody,Night,Relaxation and stress relief,leisure time,Playlists,4
+458,458,Music,Melody,Night,Relaxation and stress relief,While Traveling,"recommendations, Playlists",4
+459,459,Music,Melody,Night,"Relaxation and stress relief, Sadness or melancholy",leisure time,"recommendations, Playlists",4
+460,460,Music,classical,Night,Relaxation and stress relief,"Office hours, While Traveling",Playlists,4
+461,461,Music,classical,Night,"Relaxation and stress relief, Sadness or melancholy",leisure time,Others,4
+462,462,Music,Melody,Night,Relaxation and stress relief,"While Traveling, Workout session, leisure time",Playlists,4
+463,463,Music,Pop,Night,"Relaxation and stress relief, Sadness or melancholy","While Traveling, Workout session, leisure time",recommendations,4
+464,464,Music,Melody,Morning,Relaxation and stress relief,leisure time,recommendations,3
+465,465,Podcast,Rap,Night,Sadness or melancholy,leisure time,Others,2
+466,466,Music,classical,Morning,Relaxation and stress relief,Study Hours,Playlists,2
+467,467,Podcast,Rap,Afternoon,Sadness or melancholy,"Study Hours, While Traveling",Playlists,2
+468,468,Music,Rap,Afternoon,Sadness or melancholy,While Traveling,Radio,2
+469,469,Podcast,Rap,Afternoon,Uplifting and motivational,While Traveling,Radio,4
+470,470,Podcast,Rap,Afternoon,Sadness or melancholy,While Traveling,Radio,2
+471,471,Podcast,Rap,Afternoon,Sadness or melancholy,While Traveling,Radio,2
+472,472,Music,classical,Afternoon,Sadness or melancholy,While Traveling,Radio,3
+473,473,Podcast,Rap,Morning,Uplifting and motivational,While Traveling,Radio,2
+474,474,Music,Rap,Afternoon,Sadness or melancholy,While Traveling,Others,3
+475,475,Podcast,Rap,Afternoon,Sadness or melancholy,"Study Hours, Workout session","Playlists, Radio",3
+476,476,Music,Rap,Night,Uplifting and motivational,Study Hours,Playlists,3
+477,477,Music,Electronic/Dance,Afternoon,Sadness or melancholy,Workout session,Radio,3
+478,478,Podcast,Rap,Afternoon,Sadness or melancholy,Workout session,Radio,3
+479,479,Podcast,Melody,Morning,Uplifting and motivational,Workout session,Radio,4
+480,480,Music,classical,Afternoon,Uplifting and motivational,Workout session,Others,2
+481,481,Podcast,classical,Morning,Uplifting and motivational,"Study Hours, leisure time","Playlists, Radio, Others",3
+482,482,Podcast,classical,Afternoon,Uplifting and motivational,While Traveling,Radio,3
+483,483,Podcast,Rap,Afternoon,Sadness or melancholy,"Study Hours, While Traveling",Playlists,3
+484,484,Podcast,classical,Afternoon,Sadness or melancholy,Workout session,"Radio, Others",3
+485,485,Music,Rap,Afternoon,"Relaxation and stress relief, Sadness or melancholy","Study Hours, While Traveling, leisure time","recommendations, Radio, Others",3
+486,486,Podcast,classical,Night,"Uplifting and motivational, Sadness or melancholy","Study Hours, While Traveling, leisure time",Radio,3
+487,487,Music,Rap,Afternoon,"Uplifting and motivational, Social gatherings or parties","Office hours, Study Hours, Workout session","Playlists, Radio, Others",2
+488,488,Podcast,Melody,Night,Sadness or melancholy,Study Hours,Radio,3
+489,489,Podcast,Melody,Afternoon,Uplifting and motivational,Workout session,Radio,3
+490,490,Music,Melody,Afternoon,Relaxation and stress relief,While Traveling,"Playlists, Radio",2
+491,491,Podcast,classical,Afternoon,"Relaxation and stress relief, Sadness or melancholy","Office hours, While Traveling, Workout session","recommendations, Radio, Others",4
+492,492,Music,Melody,Afternoon,Sadness or melancholy,leisure time,Others,3
+493,493,Music,Rap,Morning,Social gatherings or parties,Study Hours,Radio,3
+494,494,Podcast,classical,Afternoon,"Uplifting and motivational, Social gatherings or parties",While Traveling,Playlists,4
+495,495,Podcast,classical,Afternoon,Uplifting and motivational,Workout session,Playlists,4
+496,496,Podcast,Rap,Afternoon,Sadness or melancholy,leisure time,Playlists,4
+497,497,Podcast,classical,Afternoon,Uplifting and motivational,Study Hours,recommendations,3
+498,498,Podcast,Rap,Afternoon,Sadness or melancholy,While Traveling,Radio,4
+499,499,Podcast,classical,Afternoon,Sadness or melancholy,"Study Hours, Workout session",Radio,3
+500,500,Music,Rap,Afternoon,Social gatherings or parties,While Traveling,Playlists,3
+501,501,Podcast,Rap,Afternoon,Uplifting and motivational,"Office hours, While Traveling","recommendations, Playlists, Others",4
+502,502,Podcast,classical,Afternoon,Relaxation and stress relief,"While Traveling, leisure time",Radio,3
+503,503,Music,Pop,Afternoon,Sadness or melancholy,While Traveling,Others,3
+504,504,Music,classical,Afternoon,Uplifting and motivational,Study Hours,Radio,3
+505,505,Podcast,classical,Afternoon,Relaxation and stress relief,Study Hours,Playlists,3
+506,506,Podcast,classical,Morning,Uplifting and motivational,"Office hours, While Traveling","recommendations, Radio",3
+507,507,Music,classical,Morning,Uplifting and motivational,Workout session,Playlists,4
+508,508,Podcast,classical,Morning,Uplifting and motivational,"Office hours, Study Hours, While Traveling","Playlists, Radio",3
+509,509,Podcast,Rap,Morning,Relaxation and stress relief,While Traveling,Playlists,2
+510,510,Music,Melody,Night,"Relaxation and stress relief, Sadness or melancholy","Study Hours, leisure time","recommendations, Others",4
+511,511,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",Study Hours,"recommendations, Playlists",5
+512,512,Music,Melody,Night,Relaxation and stress relief,Office hours,recommendations,4
+513,513,Music,Melody,Night,"Relaxation and stress relief, Sadness or melancholy","While Traveling, Workout session","recommendations, Others",4
+514,514,Music,Kpop,Night,"Relaxation and stress relief, Uplifting and motivational","Study Hours, While Traveling, leisure time","recommendations, Playlists, Others",4
+515,515,Music,Melody,Night,Relaxation and stress relief,While Traveling,"recommendations, Playlists",4
+516,516,Music,Pop,Morning,"Uplifting and motivational, Sadness or melancholy",While Traveling,recommendations,5
+517,517,Music,Pop,Night,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties","While Traveling, Workout session, leisure time",Others,2
+518,518,Music,Pop,Night,Relaxation and stress relief,leisure time,recommendations,3
+519,519,Music,Melody,Night,"Relaxation and stress relief, Uplifting and motivational","Workout session, leisure time","recommendations, Others",2
+520,520,Music,Pop,Night,"Relaxation and stress relief, Sadness or melancholy","Office hours,Study Hours, While Traveling, leisure time","Playlists, Radio",3

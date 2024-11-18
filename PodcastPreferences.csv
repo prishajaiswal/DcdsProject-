@@ -1,0 +1,521 @@
+PodcastID,UserID,pod_lis_frequency,fav_pod_genre,preffered_pod_format,pod_host_preference,preffered_pod_duration,pod_variety_satisfaction
+1,1,Daily,Comedy,Interview,Both,Both,Ok
+2,2,Several times a week,Comedy,Interview,Both,None,Satisfied
+3,3,Once a week,Sports,Interview,None,Both,Satisfied
+4,4,Never,None,None,None,None,Ok
+5,5,Rarely,Lifestyle and Health,Story telling,Well known individuals,Both,Ok
+6,6,Never,None,None,None,None,Ok
+7,7,Never,None,None,None,None,Ok
+8,8,Several times a week,Lifestyle and Health,Conversational,Both,Longer,Satisfied
+9,9,Rarely,Comedy,Story telling,Well known individuals,Shorter,Satisfied
+10,10,Never,None,None,None,None,Ok
+11,11,Several times a week,Lifestyle and Health,Story telling,Both,Both,Satisfied
+12,12,Several times a week,Comedy,Interview,Both,Shorter,Ok
+13,13,Rarely,Lifestyle and Health,Story telling,Well known individuals,Shorter,Ok
+14,14,Rarely,Comedy,Story telling,Well known individuals,Shorter,Ok
+15,15,Rarely,Lifestyle and Health,Educational,Well known individuals,Shorter,Very Satisfied
+16,16,Never,None,None,None,None,Very Dissatisfied
+17,17,Daily,Comedy,Educational,Well known individuals,Longer,Satisfied
+18,18,Never,None,None,None,None,Ok
+19,19,Never,None,None,None,None,Ok
+20,20,Never,None,None,None,Shorter,Ok
+21,21,Never,None,None,None,None,Ok
+22,22,Never,None,None,None,None,Ok
+23,23,Once a week,Comedy,Story telling,Well known individuals,Shorter,Satisfied
+24,24,Rarely,Comedy,Interview,Both,Shorter,Very Satisfied
+25,25,Rarely,Lifestyle and Health,Conversational,Both,Both,Ok
+26,26,Never,None,None,None,None,Ok
+27,27,Several times a week,Lifestyle and Health,Story telling,Both,Longer,Satisfied
+28,28,Never,None,None,None,None,Very Dissatisfied
+29,29,Never,None,None,None,None,Ok
+30,30,Daily,Comedy,Conversational,Both,Longer,Satisfied
+31,31,Rarely,Lifestyle and Health,Conversational,Well known individuals,Longer,Satisfied
+32,32,Rarely,Comedy,Interview,Well known individuals,Both,Satisfied
+33,33,Never,None,None,None,None,Ok
+34,34,Rarely,Comedy,Conversational,Both,Both,Ok
+35,35,Rarely,Comedy,Story telling,Well known individuals,Shorter,Ok
+36,36,Never,None,None,None,None,Ok
+37,37,Several times a week,Business,Story telling,Both,Shorter,Ok
+38,38,Rarely,Comedy,Conversational,Well known individuals,Shorter,Satisfied
+39,39,Rarely,Comedy,Story telling,Both,Shorter,Satisfied
+40,40,Rarely,None,Interview,Both,Shorter,Ok
+41,41,Rarely,Comedy,None,Both,Shorter,Ok
+42,42,Rarely,None,Conversational,Both,Both,Ok
+43,43,Once a week,Comedy,Conversational,Both,Longer,Very Satisfied
+44,44,Daily,Health and Fitness,Interview,Well known individuals,Longer,Very Satisfied
+45,45,Once a week,Comedy,Story telling,None,Both,Satisfied
+46,46,Never,None,None,None,None,Ok
+47,47,Once a week,Lifestyle and Health,Conversational,Both,Both,Ok
+48,48,Once a week,Food and cooking,Interview,Both,Shorter,Satisfied
+49,49,Once a week,Comedy,None,Well known individuals,Shorter,Ok
+50,50,Rarely,Comedy,Story telling,unknown Podcasters,Shorter,Very Satisfied
+51,51,Daily,Health and Fitness,Educational,Both,Shorter,Dissatisfied
+52,52,Once a week,Comedy,Story telling,Both,Shorter,Ok
+53,53,Never,None,None,None,None,Ok
+54,54,Rarely,Lifestyle and Health,Story telling,Both,Shorter,Very Satisfied
+55,55,Rarely,Lifestyle and Health,Educational,Well known individuals,Shorter,Satisfied
+56,56,Never,None,None,None,None,Ok
+57,57,Rarely,Lifestyle and Health,Educational,Both,Shorter,Ok
+58,58,Once a week,Comedy,Story telling,None,None,Satisfied
+59,59,Daily,Comedy,Story telling,Both,Shorter,Satisfied
+60,60,Never,None,None,None,None,Satisfied
+61,61,Rarely,Sports,Conversational,Well known individuals,Both,Satisfied
+62,62,Never,None,None,None,None,Ok
+63,63,Rarely,Sports,Story telling,Both,Shorter,Ok
+64,64,Rarely,Lifestyle and Health,Interview,Both,Shorter,Satisfied
+65,65,Never,None,None,None,None,Ok
+66,66,Never,None,None,None,None,Ok
+67,67,Several times a week,Comedy,Conversational,Both,Both,Very Satisfied
+68,68,Rarely,Comedy,Story telling,Both,Shorter,Satisfied
+69,69,Never,Food and cooking,Story telling,Both,Shorter,Ok
+70,70,Never,None,None,None,None,Ok
+71,71,Once a week,Lifestyle and Health,Interview,Both,Both,Satisfied
+72,72,Never,None,None,None,None,Ok
+73,73,Rarely,Lifestyle and Health,Conversational,Well known individuals,Shorter,Very Satisfied
+74,74,Rarely,Comedy,Conversational,Both,Both,Ok
+75,75,Daily,Health and Fitness,Interview,Well known individuals,Longer,Ok
+76,76,Once a week,Food and cooking,Story telling,Both,Longer,Satisfied
+77,77,Daily,Lifestyle and Health,Conversational,unknown Podcasters,Both,Very Satisfied
+78,78,Once a week,Comedy,Educational,None,Shorter,Ok
+79,79,Several times a week,Health and Fitness,Story telling,Both,Longer,Very Satisfied
+80,80,Rarely,Lifestyle and Health,Conversational,unknown Podcasters,Longer,Satisfied
+81,81,Never,None,None,None,None,Ok
+82,82,Once a week,Food and cooking,Story telling,Well known individuals,Shorter,Ok
+83,83,Daily,Comedy,Conversational,Well known individuals,Shorter,Satisfied
+84,84,Several times a week,Health and Fitness,Story telling,unknown Podcasters,Longer,Satisfied
+85,85,Several times a week,Comedy,None,Both,Shorter,Ok
+86,86,Several times a week,Sports,Interview,Both,Both,Very Satisfied
+87,87,Once a week,Sports,Conversational,unknown Podcasters,Both,Ok
+88,88,Never,None,None,None,None,Ok
+89,89,Several times a week,Comedy,Educational,Well known individuals,Both,Very Satisfied
+90,90,Once a week,Lifestyle and Health,Story telling,unknown Podcasters,Shorter,Satisfied
+91,91,Rarely,Comedy,Story telling,Both,Shorter,Satisfied
+92,92,Never,Lifestyle and Health,None,Both,Longer,Satisfied
+93,93,Never,None,None,None,None,Ok
+94,94,Rarely,Comedy,Conversational,Both,Shorter,Very Satisfied
+95,95,Rarely,Food and cooking,Story telling,None,None,Ok
+96,96,Rarely,Everything,Story telling,Well known individuals,Both,Ok
+97,97,Never,Sports,None,Both,Shorter,Ok
+98,98,Never,None,None,None,None,Ok
+99,99,Rarely,Comedy,Story telling,Well known individuals,Shorter,Satisfied
+100,100,Never,None,None,None,None,Ok
+101,101,Never,None,Story telling,None,None,Very Satisfied
+102,102,Rarely,None,Story telling,None,None,Ok
+103,103,Rarely,Lifestyle and Health,Educational,Well known individuals,Shorter,Satisfied
+104,104,Never,None,None,None,None,Ok
+105,105,Rarely,None,Interview,None,None,Ok
+106,106,Never,None,Educational,Both,Shorter,Satisfied
+107,107,Never,None,None,None,None,Ok
+108,108,Rarely,None,Educational,Well known individuals,Shorter,Ok
+109,109,Rarely,Comedy,Story telling,Well known individuals,Shorter,Ok
+110,110,Rarely,Lifestyle and Health,Educational,Both,Shorter,Very Satisfied
+111,111,Several times a week,None,None,None,None,Ok
+112,112,Rarely,None,None,None,None,Ok
+113,113,Rarely,None,Interview,None,None,Ok
+114,114,Once a week,Comedy,Conversational,None,Shorter,Very Satisfied
+115,115,Never,None,None,None,None,Ok
+116,116,Once a week,Health and Fitness,Conversational,Both,Shorter,Satisfied
+117,117,Never,None,None,None,None,Ok
+118,118,Rarely,Informative stuff,Conversational,Well known individuals,Longer,Ok
+119,119,Several times a week,Lifestyle and Health,Conversational,Both,Shorter,Ok
+120,120,Rarely,Lifestyle and Health,Story telling,Both,Shorter,Dissatisfied
+121,121,Never,None,None,None,None,Ok
+122,122,Rarely,Comedy,Conversational,Well known individuals,Shorter,Ok
+123,123,Rarely,Comedy,Conversational,Well known individuals,Shorter,Satisfied
+124,124,Several times a week,Health and Fitness,Conversational,Well known individuals,Shorter,Satisfied
+125,125,Never,None,None,None,None,Ok
+126,126,Once a week,Lifestyle and Health,Conversational,unknown Podcasters,Both,Dissatisfied
+127,127,Rarely,Lifestyle and Health,Conversational,Both,Shorter,Satisfied
+128,128,Never,None,None,None,None,Ok
+129,129,Rarely,Comedy,Story telling,Both,Shorter,Satisfied
+130,130,Once a week,Lifestyle and Health,Conversational,Well known individuals,Shorter,Satisfied
+131,131,Rarely,Health and Fitness,Conversational,Both,Shorter,Ok
+132,132,Never,None,None,None,None,Ok
+133,133,Never,None,None,None,None,Ok
+134,134,Never,None,None,None,None,Ok
+135,135,Never,None,None,None,None,Ok
+136,136,Several times a week,Lifestyle and Health,Educational,Well known individuals,Both,Satisfied
+137,137,Never,None,None,None,None,Ok
+138,138,Rarely,Food and cooking,Interview,Well known individuals,Shorter,Very Satisfied
+139,139,Never,None,None,None,None,Ok
+140,140,Rarely,Lifestyle and Health,Conversational,Both,Shorter,Satisfied
+141,141,Daily,Health and Fitness,Story telling,Both,Both,Satisfied
+142,142,Several times a week,Lifestyle and Health,Conversational,Well known individuals,Shorter,Satisfied
+143,143,Rarely,Lifestyle and Health,Educational,Both,Both,Satisfied
+144,144,Rarely,Lifestyle and Health,Conversational,Well known individuals,Shorter,Very Satisfied
+145,145,Rarely,Comedy,Conversational,Well known individuals,Shorter,Ok
+146,146,Rarely,Comedy,Interview,Both,Shorter,Satisfied
+147,147,Rarely,Comedy,Story telling,Both,Both,Ok
+148,148,Never,None,None,None,None,Ok
+149,149,Rarely,Sports,Educational,unknown Podcasters,Both,Ok
+150,150,Several times a week,Comedy,Story telling,unknown Podcasters,Shorter,Very Satisfied
+151,151,Never,None,None,None,None,Ok
+152,152,Rarely,Food and cooking,Educational,Well known individuals,Both,Satisfied
+153,153,Never,None,None,None,None,Ok
+154,154,Rarely,Food and cooking,Conversational,Both,Shorter,Ok
+155,155,Several times a week,Sports,Conversational,Well known individuals,Longer,Very Satisfied
+156,156,Rarely,Comedy,Conversational,Both,Shorter,Ok
+157,157,Rarely,Lifestyle and Health,Educational,None,None,Ok
+158,158,Rarely,Sports,None,Well known individuals,Shorter,Ok
+159,159,Never,None,None,None,None,Ok
+160,160,Daily,Lifestyle and Health,Story telling,Well known individuals,Shorter,Very Satisfied
+161,161,Several times a week,Sports,Educational,Both,Longer,Satisfied
+162,162,Never,None,None,None,None,Ok
+163,163,Rarely,Lifestyle and Health,Conversational,Both,Both,Ok
+164,164,Rarely,Comedy,Conversational,Well known individuals,Shorter,Ok
+165,165,Several times a week,Comedy,Interview,Well known individuals,Shorter,Very Satisfied
+166,166,Once a week,Health and Fitness,Story telling,unknown Podcasters,Both,Satisfied
+167,167,Once a week,Sports,Interview,Well known individuals,Shorter,Satisfied
+168,168,Once a week,Health and Fitness,Story telling,unknown Podcasters,Longer,Ok
+169,169,Once a week,Health and Fitness,Story telling,unknown Podcasters,Both,Ok
+170,170,Once a week,Lifestyle and Health,Educational,Both,Both,Satisfied
+171,171,Several times a week,Lifestyle and Health,Story telling,Both,Shorter,Ok
+172,172,Several times a week,Food and cooking,Story telling,unknown Podcasters,Longer,Ok
+173,173,Several times a week,Health and Fitness,Interview,unknown Podcasters,Longer,Satisfied
+174,174,Once a week,Lifestyle and Health,Interview,Well known individuals,Both,Ok
+175,175,Once a week,Health and Fitness,Interview,unknown Podcasters,Both,Ok
+176,176,Once a week,Health and Fitness,Interview,unknown Podcasters,Both,Dissatisfied
+177,177,Several times a week,Food and cooking,Interview,unknown Podcasters,Longer,Ok
+178,178,Once a week,Health and Fitness,Story telling,unknown Podcasters,Both,Dissatisfied
+179,179,Once a week,Sports,Story telling,Both,Longer,Ok
+180,180,Once a week,Health and Fitness,Interview,unknown Podcasters,Longer,Ok
+181,181,Rarely,Health and Fitness,Interview,unknown Podcasters,Longer,Ok
+182,182,Once a week,Health and Fitness,Educational,Both,Both,Ok
+183,183,Rarely,Sports,Story telling,Both,Longer,Dissatisfied
+184,184,Rarely,Health and Fitness,Story telling,Both,Longer,Satisfied
+185,185,Several times a week,Lifestyle and Health,Conversational,Both,Both,Dissatisfied
+186,186,Once a week,Lifestyle and Health,Interview,Well known individuals,Both,Very Satisfied
+187,187,Once a week,Health and Fitness,Educational,unknown Podcasters,Longer,Ok
+188,188,Never,None,None,None,None,Ok
+189,189,Rarely,Comedy,Story telling,Both,Shorter,Satisfied
+190,190,Rarely,Comedy,Story telling,Both,Shorter,Satisfied
+191,191,Never,None,None,None,None,Ok
+192,192,Several times a week,Health and Fitness,Conversational,Well known individuals,Both,Satisfied
+193,193,Rarely,Comedy,Interview,Well known individuals,Shorter,Ok
+194,194,Several times a week,Comedy,Conversational,Both,Shorter,Ok
+195,195,Never,None,None,None,None,Ok
+196,196,Rarely,Food and cooking,Educational,Well known individuals,Shorter,Satisfied
+197,197,Rarely,Comedy,Interview,Well known individuals,Shorter,Satisfied
+198,198,Rarely,Lifestyle and Health,Story telling,Both,Shorter,Ok
+199,199,Never,None,None,None,None,Ok
+200,200,Rarely,Lifestyle and Health,Educational,Well known individuals,Both,Satisfied
+201,201,Never,None,None,None,None,Ok
+202,202,Rarely,Lifestyle and Health,Story telling,Well known individuals,Shorter,Ok
+203,203,Never,None,None,None,None,Ok
+204,204,Rarely,Comedy,Conversational,Well known individuals,Shorter,Satisfied
+205,205,Never,None,None,None,None,Ok
+206,206,Rarely,Comedy,Interview,Well known individuals,Shorter,Ok
+207,207,Never,None,None,None,None,Ok
+208,208,Daily,Comedy,Conversational,Well known individuals,Both,Very Satisfied
+209,209,Rarely,Lifestyle and Health,Story telling,Both,Both,Satisfied
+210,210,Rarely,Lifestyle and Health,Story telling,Both,Shorter,Ok
+211,211,Once a week,Health and Fitness,Interview,Well known individuals,Shorter,Satisfied
+212,212,Never,None,None,None,None,Ok
+213,213,Never,None,None,None,None,Ok
+214,214,Rarely,Comedy,Story telling,Both,Shorter,Very Satisfied
+215,215,Never,None,None,Both,None,Dissatisfied
+216,216,Never,None,None,None,None,Satisfied
+217,217,Never,None,None,None,None,Ok
+218,218,Never,None,None,None,None,Ok
+219,219,Rarely,Lifestyle and Health,Interview,Well known individuals,Shorter,Satisfied
+220,220,Daily,Lifestyle and Health,Educational,Well known individuals,Shorter,Very Satisfied
+221,221,Rarely,Comedy,Conversational,Well known individuals,Both,Ok
+222,222,Several times a week,Lifestyle and Health,Conversational,Both,Shorter,Ok
+223,223,Rarely,Lifestyle and Health,Conversational,Both,Shorter,Dissatisfied
+224,224,Once a week,Health and Fitness,Conversational,Both,Shorter,Satisfied
+225,225,Never,Food and cooking,None,None,None,Ok
+226,226,Never,None,None,None,None,Ok
+227,227,Daily,None,Educational,unknown Podcasters,Shorter,Ok
+228,228,Daily,None,Story telling,unknown Podcasters,Longer,Satisfied
+229,229,Never,None,None,None,None,Very Dissatisfied
+230,230,Never,None,None,None,None,Ok
+231,231,Daily,Sports,None,Both,Shorter,Satisfied
+232,232,Rarely,None,Interview,Well known individuals,Longer,Satisfied
+233,233,Once a week,Comedy,Story telling,Both,Both,Very Satisfied
+234,234,Rarely,Comedy,Story telling,Both,Shorter,Satisfied
+235,235,Never,None,None,None,None,Very Dissatisfied
+236,236,Several times a week,Comedy,Story telling,Both,Shorter,Satisfied
+237,237,Several times a week,Health and Fitness,Story telling,Well known individuals,Shorter,Very Satisfied
+238,238,Never,None,None,Well known individuals,Shorter,Satisfied
+239,239,Once a week,Dance and Relevant cases ,Conversational,unknown Podcasters,Shorter,Satisfied
+240,240,Once a week,Comedy,Interview,Well known individuals,Shorter,Ok
+241,241,Never,None,Conversational,Well known individuals,Shorter,Ok
+242,242,Never,Comedy,Story telling,Well known individuals,Shorter,Ok
+243,243,Rarely,Comedy,Story telling,Both,Shorter,Satisfied
+244,244,Rarely,Lifestyle and Health,Conversational,Well known individuals,Shorter,Ok
+245,245,Never,None,None,None,None,Very Dissatisfied
+246,246,Never,None,None,None,None,Very Dissatisfied
+247,247,Rarely,Lifestyle and Health,Educational,Both,Shorter,Satisfied
+248,248,Rarely,Comedy,Story telling,Both,Both,Satisfied
+249,249,Several times a week,Sports,None,Both,Both,Very Satisfied
+250,250,Rarely,Technology,Educational,Both,Shorter,Ok
+251,251,Never,None,None,None,None,Ok
+252,252,Rarely,Health and Fitness,Conversational,Well known individuals,Shorter,Satisfied
+253,253,Once a week,General knowledge ,Story telling,Both,Both,Satisfied
+254,254,Rarely,Lifestyle and Health,Story telling,Well known individuals,Shorter,Ok
+255,255,Rarely,None,None,None,None,Ok
+256,256,Never,None,Educational,Both,Shorter,Ok
+257,257,Rarely,Health and Fitness,Educational,Well known individuals,Longer,Satisfied
+258,258,Rarely,None,Story telling,Both,Both,Ok
+259,259,Never,None,None,None,None,Ok
+260,260,Rarely,Lifestyle and Health,Conversational,unknown Podcasters,Shorter,Ok
+261,261,Once a week,Comedy,Conversational,Both,Both,Satisfied
+262,262,Never,None,Story telling,None,Shorter,Very Dissatisfied
+263,263,Daily,Sports,Conversational,Both,Both,Very Satisfied
+264,264,Once a week,Lifestyle and Health,Interview,Both,Shorter,Dissatisfied
+265,265,Rarely,Spiritual and devotional,Story telling,Both,Shorter,Satisfied
+266,266,Several times a week,None,None,None,Both,Satisfied
+267,267,Rarely,Comedy,Interview,Well known individuals,Both,Satisfied
+268,268,Rarely,Comedy,Conversational,Both,Shorter,Satisfied
+269,269,Rarely,Comedy,Conversational,Both,Shorter,Ok
+270,270,Rarely,Comedy,Conversational,unknown Podcasters,Shorter,Satisfied
+271,271,Several times a week,Comedy,Story telling,Both,Shorter,Ok
+272,272,Never,None,None,None,None,Ok
+273,273,Several times a week,Lifestyle and Health,Educational,Well known individuals,Both,Satisfied
+274,274,Once a week,Sports,Story telling,unknown Podcasters,Both,Ok
+275,275,Once a week,Sports,Interview,Well known individuals,Longer,Ok
+276,276,Once a week,Health and Fitness,Interview,unknown Podcasters,Longer,Satisfied
+277,277,Several times a week,Health and Fitness,Interview,unknown Podcasters,Both,Ok
+278,278,Once a week,Lifestyle and Health,Interview,unknown Podcasters,Longer,Satisfied
+279,279,Several times a week,Health and Fitness,Interview,unknown Podcasters,Longer,Satisfied
+280,280,Daily,Health and Fitness,Educational,Well known individuals,Shorter,Very Satisfied
+281,281,Several times a week,Lifestyle and Health,Interview,Well known individuals,Longer,Satisfied
+282,282,Once a week,Health and Fitness,Story telling,unknown Podcasters,Longer,Ok
+283,283,Once a week,Health and Fitness,Story telling,unknown Podcasters,Both,Satisfied
+284,284,Several times a week,Health and Fitness,Interview,unknown Podcasters,Longer,Satisfied
+285,285,Several times a week,Health and Fitness,Story telling,Both,Longer,Satisfied
+286,286,Once a week,Sports,Interview,unknown Podcasters,Shorter,Ok
+287,287,Several times a week,Health and Fitness,Interview,unknown Podcasters,Longer,Very Satisfied
+288,288,Once a week,Sports,Interview,unknown Podcasters,Both,Ok
+289,289,Several times a week,Health and Fitness,Story telling,unknown Podcasters,Longer,Satisfied
+290,290,Several times a week,Health and Fitness,Story telling,unknown Podcasters,Longer,Satisfied
+291,291,Several times a week,Health and Fitness,Story telling,Both,Longer,Ok
+292,292,Rarely,Sports,Conversational,unknown Podcasters,Longer,Ok
+293,293,Once a week,Health and Fitness,Story telling,unknown Podcasters,Longer,Ok
+294,294,Once a week,Health and Fitness,Story telling,unknown Podcasters,Both,Ok
+295,295,Once a week,Sports,Interview,unknown Podcasters,Longer,Ok
+296,296,Several times a week,Health and Fitness,Interview,unknown Podcasters,Longer,Satisfied
+297,297,Several times a week,Health and Fitness,Story telling,Both,Both,Dissatisfied
+298,298,Once a week,Health and Fitness,Interview,Well known individuals,Both,Ok
+299,299,Several times a week,Health and Fitness,Story telling,unknown Podcasters,Both,Satisfied
+300,300,Once a week,Health and Fitness,Interview,Both,Longer,Satisfied
+301,301,Rarely,Health and Fitness,None,Both,Shorter,Ok
+302,302,Once a week,Health and Fitness,Interview,unknown Podcasters,Longer,Satisfied
+303,303,Once a week,Health and Fitness,Story telling,unknown Podcasters,Both,Satisfied
+304,304,Never,Comedy,Conversational,Well known individuals,Longer,Ok
+305,305,Several times a week,Lifestyle and Health,Educational,unknown Podcasters,Longer,Dissatisfied
+306,306,Once a week,Health and Fitness,Story telling,unknown Podcasters,Both,Dissatisfied
+307,307,Several times a week,Lifestyle and Health,Interview,unknown Podcasters,Longer,Satisfied
+308,308,Once a week,Health and Fitness,Story telling,unknown Podcasters,Both,Ok
+309,309,Several times a week,Health and Fitness,Interview,unknown Podcasters,Both,Ok
+310,310,Once a week,Lifestyle and Health,Educational,unknown Podcasters,Both,Ok
+311,311,Once a week,Sports,Story telling,unknown Podcasters,Both,Ok
+312,312,Several times a week,Health and Fitness,Interview,unknown Podcasters,Longer,Ok
+313,313,Several times a week,Lifestyle and Health,Story telling,Well known individuals,Shorter,Very Satisfied
+314,314,Several times a week,Lifestyle and Health,Story telling,unknown Podcasters,Longer,Very Satisfied
+315,315,Once a week,Sports,Story telling,unknown Podcasters,Longer,Satisfied
+316,316,Several times a week,Sports,Story telling,Both,Longer,Ok
+317,317,Once a week,Sports,Conversational,Both,Longer,Ok
+318,318,Once a week,Health and Fitness,Story telling,unknown Podcasters,Longer,Satisfied
+319,319,Once a week,Sports,Story telling,unknown Podcasters,Both,Ok
+320,320,Once a week,Sports,Interview,Both,Longer,Ok
+321,321,Once a week,Health and Fitness,Educational,unknown Podcasters,Both,Satisfied
+322,322,Rarely,Health and Fitness,Educational,Well known individuals,Shorter,Ok
+323,323,Never,None,None,None,None,Ok
+324,324,Several times a week,Lifestyle and Health,Educational,Well known individuals,Shorter,Satisfied
+325,325,Never,None,None,None,None,Ok
+326,326,Daily,None,None,None,None,Ok
+327,327,Never,None,None,None,None,Ok
+328,328,Several times a week,Comedy,Story telling,unknown Podcasters,Shorter,Very Satisfied
+329,329,Rarely,Lifestyle and Health,Conversational,Well known individuals,Shorter,Ok
+330,330,Never,None,None,None,None,Satisfied
+331,331,Never,None,Story telling,None,None,Ok
+332,332,Never,None,None,None,None,Ok
+333,333,Rarely,Finance related and current affairs,Story telling,Both,Shorter,Ok
+334,334,Never,Food and cooking,None,None,None,Ok
+335,335,Rarely,Comedy,None,None,Shorter,Ok
+336,336,Rarely,None,Story telling,Both,Both,Satisfied
+337,337,Rarely,Comedy,Conversational,Well known individuals,Both,Ok
+338,338,Rarely,Lifestyle and Health,Educational,Both,Both,Very Satisfied
+339,339,Rarely,Comedy,Conversational,Both,Shorter,Satisfied
+340,340,Several times a week,None,None,None,None,Ok
+341,341,Never,None,None,None,None,Ok
+342,342,Once a week,Lifestyle and Health,Story telling,Both,Both,Ok
+343,343,Rarely,Comedy,Story telling,Both,Shorter,Ok
+344,344,Rarely,None,None,None,None,Satisfied
+345,345,Rarely,Murder Mystery ,Story telling,Both,Both,Ok
+346,346,Never,Health and Fitness,Interview,Well known individuals,Shorter,Ok
+347,347,Rarely,Comedy,Conversational,Both,Shorter,Ok
+348,348,Rarely,Health and Fitness,Story telling,Well known individuals,Shorter,Ok
+349,349,Rarely,Comedy,Story telling,Both,Both,Ok
+350,350,Never,None,None,None,None,Dissatisfied
+351,351,Once a week,Food and cooking,Conversational,Both,Both,Ok
+352,352,Rarely,Comedy,Story telling,Both,Shorter,Ok
+353,353,Rarely,Lifestyle and Health,Conversational,Both,Both,Ok
+354,354,Several times a week,Comedy,Story telling,Both,Shorter,Ok
+355,355,Rarely,Comedy,None,None,None,Dissatisfied
+356,356,Several times a week,Health and Fitness,Story telling,Both,Both,Ok
+357,357,Rarely,Comedy,Conversational,Both,Both,Ok
+358,358,Rarely,"Political, informative, topics that interests me",Conversational,Both,Both,Ok
+359,359,Rarely,Comedy,Story telling,Both,Shorter,Ok
+360,360,Rarely,Lifestyle and Health,Story telling,Well known individuals,Shorter,Ok
+361,361,Rarely,Sports,Educational,Well known individuals,Shorter,Dissatisfied
+362,362,Never,None,Conversational,Well known individuals,Shorter,Satisfied
+363,363,Never,None,None,None,None,Ok
+364,364,Rarely,Comedy,Story telling,Both,Shorter,Satisfied
+365,365,Never,None,None,None,None,Ok
+366,366,Rarely,Lifestyle and Health,Conversational,Well known individuals,Both,Satisfied
+367,367,Never,None,None,None,None,Ok
+368,368,Rarely,Comedy,Conversational,Both,Shorter,Satisfied
+369,369,Rarely,Lifestyle and Health,Interview,Well known individuals,Shorter,Satisfied
+370,370,Never,None,None,None,None,Ok
+371,371,Never,None,None,None,None,Ok
+372,372,Rarely,Sports,Interview,Both,Shorter,Ok
+373,373,Never,None,None,None,None,Satisfied
+374,374,Rarely,Comedy,Conversational,Well known individuals,Shorter,Ok
+375,375,Rarely,Novels,Story telling,Both,Both,Satisfied
+376,376,Rarely,Lifestyle and Health,Conversational,Both,Shorter,Satisfied
+377,377,Rarely,Food and cooking,Conversational,unknown Podcasters,Shorter,Ok
+378,378,Rarely,Lifestyle and Health,Story telling,Well known individuals,Shorter,Satisfied
+379,379,Rarely,None,Conversational,Both,Shorter,Satisfied
+380,380,Several times a week,Health and Fitness,Story telling,Both,Shorter,Very Satisfied
+381,381,Several times a week,Lifestyle and Health,Story telling,Well known individuals,Shorter,Ok
+382,382,Never,None,None,None,None,Very Dissatisfied
+383,383,Rarely,Lifestyle and Health,Conversational,Both,Shorter,Ok
+384,384,Rarely,Comedy,Story telling,Both,Shorter,Satisfied
+385,385,Never,None,None,None,None,Satisfied
+386,386,Rarely,Comedy,Story telling,Both,Shorter,Ok
+387,387,Never,None,None,None,None,Ok
+388,388,Rarely,Lifestyle and Health,Interview,Well known individuals,Shorter,Ok
+389,389,Never,None,None,Well known individuals,Shorter,Ok
+390,390,Never,Food and cooking,Educational,Both,Shorter,Ok
+391,391,Several times a week,Lifestyle and Health,Conversational,Both,Longer,Satisfied
+392,392,Rarely,None,Educational,None,Both,Ok
+393,393,Never,None,None,Well known individuals,Shorter,Ok
+394,394,Never,None,None,None,None,Ok
+395,395,Rarely,Lifestyle and Health,Story telling,unknown Podcasters,Shorter,Ok
+396,396,Rarely,Lifestyle and Health,Conversational,Well known individuals,Shorter,Ok
+397,397,Once a week,Health and Fitness,Conversational,Both,Shorter,Ok
+398,398,Once a week,Food and cooking,Conversational,Both,Shorter,Satisfied
+399,399,Never,Food and cooking,Conversational,Both,Shorter,Ok
+400,400,Never,Comedy,Story telling,None,None,Ok
+401,401,Never,None,None,None,None,Satisfied
+402,402,Rarely,Comedy,Conversational,Both,Shorter,Ok
+403,403,Rarely,Sports,Story telling,Both,Shorter,Ok
+404,404,Rarely,Comedy,Story telling,Both,Shorter,Ok
+405,405,Never,None,None,None,None,Ok
+406,406,Never,None,None,None,None,Ok
+407,407,Once a week,Health and Fitness,Story telling,unknown Podcasters,Both,Ok
+408,408,Rarely,None,None,None,Shorter,Ok
+409,409,Rarely,None,None,None,None,Ok
+410,410,Rarely,None,None,None,None,Ok
+411,411,Once a week,Comedy,Story telling,unknown Podcasters,Both,Ok
+412,412,Daily,Health and Fitness,Story telling,Both,Longer,Very Satisfied
+413,413,Rarely,None,None,None,None,Ok
+414,414,Once a week,Lifestyle and Health,Conversational,Well known individuals,Longer,Satisfied
+415,415,Several times a week,Comedy,Story telling,Both,Both,Very Satisfied
+416,416,Rarely,Comedy,Educational,Well known individuals,Shorter,Very Satisfied
+417,417,Never,None,None,None,None,Ok
+418,418,Never,None,None,None,None,Satisfied
+419,419,Rarely,Lifestyle and Health,Conversational,Well known individuals,Shorter,Very Satisfied
+420,420,Once a week,Lifestyle and Health,Story telling,Both,Shorter,Satisfied
+421,421,Rarely,None,Conversational,Both,Both,Satisfied
+422,422,Never,None,None,None,None,Very Dissatisfied
+423,423,Rarely,None,None,None,None,Ok
+424,424,Once a week,Comedy,None,None,Both,Ok
+425,425,Rarely,Comedy,Story telling,Both,Shorter,Satisfied
+426,426,Never,None,None,None,None,Ok
+427,427,Never,None,None,None,None,Ok
+428,428,Never,None,None,None,None,Satisfied
+429,429,Never,None,None,None,None,Ok
+430,430,Several times a week,Lifestyle and Health,Conversational,Both,Both,Very Satisfied
+431,431,Rarely,Lifestyle and Health,Conversational,Both,Shorter,Ok
+432,432,Rarely,Food and cooking,Conversational,Both,Shorter,Satisfied
+433,433,Never,None,Story telling,unknown Podcasters,Shorter,Ok
+434,434,Rarely,Lifestyle and Health,Story telling,Well known individuals,Both,Ok
+435,435,Rarely,Comedy,None,None,Shorter,Ok
+436,436,Once a week,Sports,None,None,None,Ok
+437,437,Rarely,Sports,Educational,Both,Shorter,Satisfied
+438,438,Several times a week,Comedy,Story telling,Well known individuals,Shorter,Ok
+439,439,Rarely,Comedy,Educational,Both,Longer,Satisfied
+440,440,Rarely,None,None,None,Shorter,Ok
+441,441,Several times a week,None,None,None,None,Ok
+442,442,Rarely,Comedy,Story telling,Both,Shorter,Satisfied
+443,443,Never,None,None,None,None,Ok
+444,444,Rarely,Lifestyle and Health,Educational,Both,Shorter,Ok
+445,445,Once a week,Lifestyle and Health,Conversational,Well known individuals,Both,Satisfied
+446,446,Never,None,None,None,None,Ok
+447,447,Rarely,Food and cooking,Conversational,Both,Shorter,Ok
+448,448,Rarely,Lifestyle and Health,Interview,Well known individuals,Shorter,Satisfied
+449,449,Never,None,None,None,None,Ok
+450,450,Never,None,None,Well known individuals,Shorter,Dissatisfied
+451,451,Once a week,Comedy,Conversational,Well known individuals,Shorter,Satisfied
+452,452,Never,None,None,None,None,Ok
+453,453,Rarely,Lifestyle and Health,Story telling,Well known individuals,Shorter,Satisfied
+454,454,Rarely,Self help,Story telling,Both,Shorter,Satisfied
+455,455,Never,None,Conversational,Well known individuals,None,Ok
+456,456,Rarely,Comedy,Story telling,Both,Shorter,Satisfied
+457,457,Rarely,Lifestyle and Health,Educational,unknown Podcasters,Shorter,Satisfied
+458,458,Rarely,Lifestyle and Health,Interview,Both,Shorter,Ok
+459,459,Rarely,Lifestyle and Health,Educational,Both,Both,Ok
+460,460,Rarely,Comedy,Conversational,None,Shorter,Ok
+461,461,Never,None,None,None,None,Very Satisfied
+462,462,Never,None,Conversational,None,Shorter,Ok
+463,463,Rarely,Lifestyle and Health,Story telling,Both,Both,Satisfied
+464,464,Rarely,Health and Fitness,Educational,Both,Shorter,Satisfied
+465,465,Rarely,Health and Fitness,Story telling,unknown Podcasters,Both,Dissatisfied
+466,466,Once a week,Health and Fitness,Interview,Well known individuals,Both,Ok
+467,467,Several times a week,Comedy,Educational,Both,Longer,Satisfied
+468,468,Several times a week,Sports,Conversational,unknown Podcasters,Longer,Satisfied
+469,469,Several times a week,Lifestyle and Health,Story telling,Both,Longer,Satisfied
+470,470,Once a week,Health and Fitness,Interview,Both,Longer,Very Satisfied
+471,471,Once a week,Health and Fitness,Interview,Both,Longer,Ok
+472,472,Once a week,Sports,Interview,Well known individuals,Longer,Ok
+473,473,Rarely,Health and Fitness,Story telling,unknown Podcasters,Longer,Ok
+474,474,Once a week,Health and Fitness,Conversational,Both,Both,Dissatisfied
+475,475,Once a week,Sports,Interview,Both,Longer,Satisfied
+476,476,Rarely,Lifestyle and Health,Story telling,Both,Longer,Very Satisfied
+477,477,Rarely,Sports,Conversational,Both,Both,Satisfied
+478,478,Rarely,Sports,Story telling,unknown Podcasters,Both,Satisfied
+479,479,Rarely,Lifestyle and Health,Interview,Well known individuals,Both,Ok
+480,480,Once a week,Sports,None,unknown Podcasters,Both,Ok
+481,481,Once a week,Lifestyle and Health,Interview,Both,Both,Ok
+482,482,Rarely,Health and Fitness,Story telling,unknown Podcasters,Both,Ok
+483,483,Rarely,Sports,Conversational,Both,Both,Ok
+484,484,Rarely,Sports,Story telling,Well known individuals,Longer,Ok
+485,485,Once a week,Health and Fitness,Story telling,unknown Podcasters,Both,Ok
+486,486,Rarely,Sports,Story telling,unknown Podcasters,Both,Satisfied
+487,487,Several times a week,Health and Fitness,Story telling,unknown Podcasters,Longer,Ok
+488,488,Once a week,Comedy,Interview,unknown Podcasters,Both,Ok
+489,489,Rarely,Sports,Story telling,unknown Podcasters,Longer,Very Satisfied
+490,490,Several times a week,Comedy,Story telling,Both,Longer,Ok
+491,491,Several times a week,Lifestyle and Health,Story telling,unknown Podcasters,Both,Dissatisfied
+492,492,Rarely,Sports,Story telling,Both,Both,Ok
+493,493,Several times a week,Sports,Conversational,Well known individuals,Both,Satisfied
+494,494,Rarely,Sports,Interview,Both,Both,Very Satisfied
+495,495,Rarely,Sports,Story telling,unknown Podcasters,Both,Ok
+496,496,Rarely,Comedy,Story telling,unknown Podcasters,Longer,Satisfied
+497,497,Several times a week,Lifestyle and Health,Interview,Well known individuals,Longer,Ok
+498,498,Rarely,Sports,Conversational,Both,Both,Satisfied
+499,499,Several times a week,Health and Fitness,Story telling,Both,Shorter,Satisfied
+500,500,Once a week,Lifestyle and Health,Conversational,Both,Longer,Satisfied
+501,501,Several times a week,Sports,Story telling,Both,Longer,Satisfied
+502,502,Once a week,Sports,Interview,Well known individuals,Both,Very Dissatisfied
+503,503,Rarely,Health and Fitness,Interview,unknown Podcasters,Both,Ok
+504,504,Rarely,Lifestyle and Health,Story telling,unknown Podcasters,Longer,Satisfied
+505,505,Several times a week,Health and Fitness,Story telling,Well known individuals,Longer,Very Satisfied
+506,506,Rarely,Health and Fitness,Story telling,Both,Longer,Satisfied
+507,507,Rarely,Lifestyle and Health,Interview,unknown Podcasters,Both,Satisfied
+508,508,Rarely,Health and Fitness,Conversational,unknown Podcasters,Both,Ok
+509,509,Rarely,Sports,None,Well known individuals,Both,Ok
+510,510,Rarely,Lifestyle and Health,Educational,Well known individuals,Shorter,Ok
+511,511,Rarely,Comedy,Story telling,Both,Longer,Satisfied
+512,512,Rarely,Educational ,Educational,Both,Shorter,Satisfied
+513,513,Once a week,Stories ,Story telling,Both,Both,Satisfied
+514,514,Never,None,None,None,None,Ok
+515,515,Rarely,None,Conversational,Both,Shorter,Satisfied
+516,516,Rarely,Lifestyle and Health,Conversational,Both,Shorter,Ok
+517,517,Rarely,Comedy,Story telling,Both,Shorter,Ok
+518,518,Never,None,Story telling,Both,Shorter,Ok
+519,519,Several times a week,Comedy,Conversational,Both,Longer,Satisfied
+520,520,Never,None,None,None,None,Ok
